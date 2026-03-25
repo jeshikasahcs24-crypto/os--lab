@@ -66,4 +66,4 @@ int main() {
 
 
 
-what will be the output for this code
+
